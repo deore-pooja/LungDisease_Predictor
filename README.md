@@ -43,6 +43,13 @@ The project is organized as a Jupyter Notebook, with the following steps:
    
 8) Model Deployment: The trained model is saved, and a discussion is provided on how to deploy the model for real-world use.
 
+# UI Demo
+
+![Screenshot 2024-07-09 144604](https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/e0dc2b60-f7a2-444f-8e4d-413bb011daf1)
+
+
+
+
 # Requirements
 To run this project, you will need the following:
 
