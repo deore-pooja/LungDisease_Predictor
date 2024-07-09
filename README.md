@@ -1,6 +1,4 @@
 # LungDisease_Predictor
- 
-# Lung_Disease_Predictor
 
 # Lung Image Classification
 
