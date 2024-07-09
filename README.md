@@ -9,7 +9,9 @@ This project aims to develop a machine learning model for classifying lung image
 The dataset used in this project is the "lung_image_sets.zip" file, which contains the lung images organized into the following categories:
 
 lung_aca: Lung adenocarcinoma images
+
 lung_n: Normal lung images
+
 lung_scc: Lung squamous cell carcinoma images
 
 # Project Structure
