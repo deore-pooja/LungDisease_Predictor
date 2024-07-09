@@ -47,8 +47,9 @@ The project is organized as a Jupyter Notebook, with the following steps:
 
 ![Screenshot 2024-07-09 144604](https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/e0dc2b60-f7a2-444f-8e4d-413bb011daf1)
 
+![Screenshot 2024-07-09 144621](https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/984d4376-023f-4992-a3eb-353fd6e8ef52)
 
-
+![Screenshot 2024-07-09 144709](https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/47e831c0-f446-4f90-995b-0bc31f37beac)
 
 # Requirements
 To run this project, you will need the following:
