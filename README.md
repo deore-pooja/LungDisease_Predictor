@@ -60,6 +60,8 @@ Jupyter Notebook
 
 The following Python libraries:
 
+For UI : Gradio
+
 NumPy
 
 Pandas
