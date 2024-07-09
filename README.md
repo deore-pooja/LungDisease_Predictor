@@ -18,7 +18,7 @@ lung_scc: Lung squamous cell carcinoma images
 
 For Model Testing : https://github.com/deore-pooja/LungDisease_Predictor/tree/82c9c2d17e20bba144d234945edeaee47397bb2a/For%20Model%20Testing
 
-is for model testing. you can check that your model is actually working or not with the help of these images. You can also test with different images that are not in the folder repository.
+is for model testing. with the help of these images you can check that your model is actually working or not. You can also test with different images that are not in the folder repository.
 
 For Verification : https://github.com/deore-pooja/LungDisease_Predictor/tree/82c9c2d17e20bba144d234945edeaee47397bb2a/For%20Verification
 
