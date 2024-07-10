@@ -5,6 +5,23 @@
 # Project Overview
 This project aims to develop a machine learning model for classifying lung images into different categories, such as lung adenocarcinoma (lung_aca), normal lung (lung_n), and lung squamous cell carcinoma (lung_scc). The project is implemented using Python and various machine learning libraries, including NumPy, Pandas, Matplotlib, scikit-learn, OpenCV, and TensorFlow with Keras.
 
+# Key Features
+
+Lung cancer is one of the leading causes of cancer-related deaths worldwide. Early detection can significantly improve the prognosis and survival rates of patients. This project leverages convolutional neural networks (CNNs) to analyze lung images and predict the presence of lung cancer.
+
+1) Data Preprocessing: Tools and scripts for preparing lung image datasets for model training.
+
+2) Model Training: Implementation of CNNs using Keras for training on lung image datasets.
+
+3) Evaluation: Methods to evaluate model performance using various metrics.
+
+4) Visualization: Functions to visualize the model architecture and results.
+
+# Installations
+git clone https://github.com/deore-pooja/LungDisease_Predictor.git
+cd LungDisease_predictor
+pip install -r requirements.txt
+
 # Dataset
 The dataset used in this project is the "lung_image_sets.zip" file, which contains the lung images organized into the following categories:
 
@@ -23,6 +40,7 @@ is for model testing. with the help of these images you can check that your mode
 For Verification : https://github.com/deore-pooja/LungDisease_Predictor/tree/82c9c2d17e20bba144d234945edeaee47397bb2a/For%20Verification
 
 is for your verification. You can check if the prediction of disease is correct or not. These folders are the original folders of the (For Model Testing) folder and both have the same data. but they have different names.
+
 
 # Project Structure
 The project is organized as a Jupyter Notebook, with the following steps:
@@ -74,7 +92,18 @@ OpenCV
 
 TensorFlow with Keras
 
+# Project Flow
+
+1) Data Preparation: Ensure the lung image datasets are placed in the data/ directory.
+
+2) Training: Use the provided notebooks and scripts to train the model.
+
+3) Evaluation: Run evaluation scripts to assess the model's performance.
+
+4) Prediction: Use the trained model to predict lung cancer on new sample images.
+
 # Usage
+
 1) Clone the repository or copy the Jupyter Notebook file to your local machine.
 
 2) Install the required Python libraries.
