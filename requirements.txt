@@ -1,0 +1,13 @@
+Gradio
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+scikit-learn
+
+OpenCV
+
+TensorFlow with Keras
