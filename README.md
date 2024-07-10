@@ -18,11 +18,15 @@ Lung cancer is one of the leading causes of cancer-related deaths worldwide. Ear
 4) Visualization: Functions to visualize the model architecture and results.
 
 # Installations
+
 git clone https://github.com/deore-pooja/LungDisease_Predictor.git
+
 cd LungDisease_predictor
+
 pip install -r requirements.txt
 
 # Dataset
+
 The dataset used in this project is the "lung_image_sets.zip" file, which contains the lung images organized into the following categories:
 
 https://drive.google.com/file/d/1W2WczHGw1Ng8bn0BfdIEhB2R3SHepYe_/view?usp=drive_link
