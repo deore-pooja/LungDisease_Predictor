@@ -73,6 +73,10 @@ The project is organized as a Jupyter Notebook, with the following steps:
 
 ![Screenshot 2024-07-09 144709](https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/47e831c0-f446-4f90-995b-0bc31f37beac)
 
+## Video
+
+https://github.com/deore-pooja/LungDisease_Predictor/assets/158804349/abec4cda-136c-4c16-942a-69908beae08d
+
 # Requirements
 To run this project, you will need the following:
 
@@ -116,5 +120,3 @@ TensorFlow with Keras
 
 # Contribution
 If you have any suggestions, improvements, or find any issues, please feel free to create a new issue or submit a pull request.
-
-
